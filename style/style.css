@@ -4,6 +4,7 @@
 *{
     margin: 0;
     padding: 0;
+    font-family: Work Sans;
 }
 
 /* Nab-Bar style */
@@ -222,3 +223,4 @@
 .link{
     margin: 20px;
 }
+
